@@ -1,0 +1,17 @@
+Random rational number:
+r1: -7/-3
+r2: -4/16
+Negate r2:
+Expected: 4/16
+Actual: 4/16
+Invert r2:
+Expected: 16/4
+Invert r2: 16/4
+toDouble r2:
+Expected: 4.0
+Actual: 4.0
+Reduce r2:
+Expected: 4/1
+Actual: 4/1
+Add r1 and r2:
+Actual: 19/3
